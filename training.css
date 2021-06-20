@@ -9,7 +9,7 @@ body{
 /* Header - logo or title */.header {
     padding: 60px;
     text-align:center;
-    background: #553175;
+    background: red;
     color: white;
 }
 /*style nav bar as flexbox */
